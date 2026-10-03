@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Shortcuts"
+  short_description: "Build, repair and ship installable Apple Shortcuts"
+  default_prompt: "Use $apple-shortcuts to build or repair an installable Shortcut for this project, verify its signed workflow, and explain any remaining device setup."
